@@ -1,0 +1,1 @@
+"com.hungnt.hotreload": "https://github.com/HungNT-Packages/HungNT-HotReload.git"
