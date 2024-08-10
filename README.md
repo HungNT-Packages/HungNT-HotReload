@@ -8,4 +8,4 @@ Install instructions on https://hotreload.net/
 
 ![Modify2dJumpingGameDemo](https://hot-reload-assets.s3.amazonaws.com/assets/hotreload_jump_demo.gif)
 
-"com.hungnt.hotreload": "https://github.com/HungNT-Packages/HungNT-HotReload.git"
+"com.singularitygroup.hotreload": "https://github.com/HungNT-Packages/HungNT-HotReload.git"
