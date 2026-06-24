@@ -1,8 +1,9 @@
 {
-  "displayName": "HungNT: Hot Reload",
+  "displayName": "HungNT 3rd-party: Hot Reload",
   "name": "com.singularitygroup.hotreload",
   "unity": "2018.4",
   "description": "Change code and get immediate updates in the Unity Editor or on-device.",
+  "documentationUrl": "https://assetstore.unity.com/packages/tools/utilities/hot-reload-edit-code-without-compiling-254358",
   "category": "Engineering",
   "keywords": [
     "Hot",
@@ -18,7 +19,7 @@
     "com.unity.modules.unitywebrequest": "1.0.0"
   },
   "author": {
-    "name": "Nguyen Tien Hung",
-    "email": "ngtienhungg.work@gmail.com"
+    "name": "HungNT",
+    "url": "https://github.com/HungNT-UPM"
   }
 }
